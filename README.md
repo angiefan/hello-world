@@ -1,2 +1,3 @@
 # hello-world
 creating my first repository for eecs 183 woo
+Hi, my name is Angie and I am a sophomore studying Business Administration at the Ross School of Business. I am also planning on minoring in chemistry because I like orgo! There's not really much interesting info I can share... I am easily distracted by YouTube, cat videos, kpop, eating...
